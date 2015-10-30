@@ -100,3 +100,5 @@ $RECYCLE.BIN/
 *.msp
 .ipynb_checkpoints/colormaps-checkpoint.ipynb
 cont_map.png
+
+.ipynb_checkpoints/colormaps-checkpoint.ipynb
